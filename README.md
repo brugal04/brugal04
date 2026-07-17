@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".images/banner.png" alt="Bryant Brugal Banner" width="100%">
+  <img src="./images/banner.png" alt="Bryant Brugal Banner" width="100%">
 </p>
 
 <br>
