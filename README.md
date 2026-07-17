@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./images/banner.png" alt="Bryant Brugal Banner" width="100%">
+</p>
+
+<br>
+
 <h1 align="center">👋 Hi, I'm Bryant Brugal</h1>
 
 <h3 align="center">
